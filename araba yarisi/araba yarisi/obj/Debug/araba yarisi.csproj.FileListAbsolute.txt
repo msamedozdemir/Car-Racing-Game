@@ -1,0 +1,12 @@
+C:\c# deneme\araba yarisi\araba yarisi\bin\Debug\araba yarisi.exe.config
+C:\c# deneme\araba yarisi\araba yarisi\bin\Debug\araba yarisi.exe
+C:\c# deneme\araba yarisi\araba yarisi\bin\Debug\araba yarisi.pdb
+C:\c# deneme\araba yarisi\araba yarisi\obj\Debug\araba yarisi.csproj.AssemblyReference.cache
+C:\c# deneme\araba yarisi\araba yarisi\obj\Debug\araba yarisi.csproj.SuggestedBindingRedirects.cache
+C:\c# deneme\araba yarisi\araba yarisi\obj\Debug\araba_yarisi.Form1.resources
+C:\c# deneme\araba yarisi\araba yarisi\obj\Debug\araba_yarisi.Properties.Resources.resources
+C:\c# deneme\araba yarisi\araba yarisi\obj\Debug\araba yarisi.csproj.GenerateResource.cache
+C:\c# deneme\araba yarisi\araba yarisi\obj\Debug\araba yarisi.csproj.CoreCompileInputs.cache
+C:\c# deneme\araba yarisi\araba yarisi\obj\Debug\araba yarisi.exe
+C:\c# deneme\araba yarisi\araba yarisi\obj\Debug\araba yarisi.pdb
+C:\c# deneme\araba yarisi\araba yarisi\obj\Debug\araba_yarisi.Homepage.resources
